@@ -1,0 +1,24 @@
+h1{
+    display: flex;
+  justify-content: center;
+margin-top:  20vh;
+
+}
+img{
+  margin: 0 auto 0 auto;
+}
+
+    .h1{
+       display: flex;
+      font-size: 50px; 
+      font-family: fantasy; 
+    }
+
+    h1.red{
+      color: red;
+    }
+
+    #ggg{
+background-color: white;
+border: none;
+    }
